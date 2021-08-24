@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+
+* {
+  box-sizing: border-solid;
+}
+
+body {
+  background-color: #69b0da;
+  color: #1a0719;
+  font-family: 'Oswald';
+  font-weight: 500;
+  font-size: larger
+
+  line-height: 1.4;
+}
+
+h1, h2 {
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+img {
+  width: 100%;
+  max-width: 600px;
+  border: 5px dotted #751111;
+}
+
+h2:hover {
+  color: #fff1f3;
+}
+link:hover {
+  color: aqua;
+}
